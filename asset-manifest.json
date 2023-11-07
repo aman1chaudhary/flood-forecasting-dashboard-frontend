@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/flood-forecasting-dashboard-frontend/static/css/main.4548cbe6.css",
+    "main.js": "/flood-forecasting-dashboard-frontend/static/js/main.c9d7b128.js",
+    "static/media/Aman.jpeg": "/flood-forecasting-dashboard-frontend/static/media/Aman.f92378d39f47d2deeda8.jpeg",
+    "static/media/Yuvraj.jpeg": "/flood-forecasting-dashboard-frontend/static/media/Yuvraj.8b0e3bffb767e642f63f.jpeg",
+    "static/media/Abhinav.jpeg": "/flood-forecasting-dashboard-frontend/static/media/Abhinav.669a5e014347feebb085.jpeg",
+    "static/media/Preetam.jpeg": "/flood-forecasting-dashboard-frontend/static/media/Preetam.c92bdb278262e5ebca4d.jpeg",
+    "static/media/Hiren.jpeg": "/flood-forecasting-dashboard-frontend/static/media/Hiren.8dac0884ee5bc567a906.jpeg",
+    "static/media/Vimal Mishra.jpeg": "/flood-forecasting-dashboard-frontend/static/media/Vimal Mishra.b5406fcecbdeb5b5c530.jpeg",
+    "index.html": "/flood-forecasting-dashboard-frontend/index.html",
+    "main.4548cbe6.css.map": "/flood-forecasting-dashboard-frontend/static/css/main.4548cbe6.css.map",
+    "main.c9d7b128.js.map": "/flood-forecasting-dashboard-frontend/static/js/main.c9d7b128.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4548cbe6.css",
+    "static/js/main.c9d7b128.js"
+  ]
+}
