@@ -1,0 +1,1073 @@
+[
+  {
+    "Date": "01/06/12",
+    "Mean_Gauge": 2.16,
+    "Discharge": 59.308,
+    "InundationMapFilename": "Inundation Boundary (01JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253533/lpw5bjwqbkxusjom4atu.tiff"
+  },
+  {
+    "Date": "02/06/12",
+    "Mean_Gauge": 2.22,
+    "Discharge": 62.153,
+    "InundationMapFilename": "Inundation Boundary (02JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253548/fay4abqju351lfhxuiyt.tiff"
+  },
+  {
+    "Date": "03/06/12",
+    "Mean_Gauge": 2.22,
+    "Discharge": 54.13,
+    "InundationMapFilename": "Inundation Boundary (03JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253552/pv93h2lk3mydulve8as9.tiff"
+  },
+  {
+    "Date": "04/06/12",
+    "Mean_Gauge": 2.22,
+    "Discharge": 43.219,
+    "InundationMapFilename": "Inundation Boundary (04JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253499/vegeso841nfo2xnpbcoc.tiff"
+  },
+  {
+    "Date": "05/06/12",
+    "Mean_Gauge": 2.16,
+    "Discharge": 40.403,
+    "InundationMapFilename": "Inundation Boundary (05JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253603/d7vexurtjrxrm7lmm2ni.tiff"
+  },
+  {
+    "Date": "06/06/12",
+    "Mean_Gauge": 2.14,
+    "Discharge": 39.478,
+    "InundationMapFilename": "Inundation Boundary (06JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253587/aievau4zgxikas07rztf.tiff"
+  },
+  {
+    "Date": "07/06/12",
+    "Mean_Gauge": 2.13,
+    "Discharge": 38.958,
+    "InundationMapFilename": "Inundation Boundary (07JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253518/zojkxtr7rlmcw6dogcjf.tiff"
+  },
+  {
+    "Date": "08/06/12",
+    "Mean_Gauge": 2.13,
+    "Discharge": 39.017,
+    "InundationMapFilename": "Inundation Boundary (08JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253586/szxtf8ahbghflk51l29w.tiff"
+  },
+  {
+    "Date": "09/06/12",
+    "Mean_Gauge": 2.13,
+    "Discharge": 40.774,
+    "InundationMapFilename": "Inundation Boundary (09JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253519/dcon6cacxznby42kbcaq.tiff"
+  },
+  {
+    "Date": "10/06/12",
+    "Mean_Gauge": 2.14,
+    "Discharge": 39.966,
+    "InundationMapFilename": "Inundation Boundary (10JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253598/rerln669kxdb0n0clbdr.tiff"
+  },
+  {
+    "Date": "11/06/12",
+    "Mean_Gauge": 2.15,
+    "Discharge": 39.507,
+    "InundationMapFilename": "Inundation Boundary (11JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253500/w475srphhsxj2iph8klu.tiff"
+  },
+  {
+    "Date": "12/06/12",
+    "Mean_Gauge": 2.13,
+    "Discharge": 43.142,
+    "InundationMapFilename": "Inundation Boundary (12JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253517/bzugh0xpwodkfowsnf2w.tiff"
+  },
+  {
+    "Date": "13/06/12",
+    "Mean_Gauge": 2.16,
+    "Discharge": 61.986,
+    "InundationMapFilename": "Inundation Boundary (13JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253590/puf5h7xtb0cyikgwvj2t.tiff"
+  },
+  {
+    "Date": "14/06/12",
+    "Mean_Gauge": 2.21,
+    "Discharge": 63.258,
+    "InundationMapFilename": "Inundation Boundary (14JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253538/r2pnng0meuftidhokwzb.tiff"
+  },
+  {
+    "Date": "15/06/12",
+    "Mean_Gauge": 2.22,
+    "Discharge": 62.411,
+    "InundationMapFilename": "Inundation Boundary (15JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253569/uc9it6ue8oxmuwwwjmqv.tiff"
+  },
+  {
+    "Date": "16/06/12",
+    "Mean_Gauge": 2.21,
+    "Discharge": 77.625,
+    "InundationMapFilename": "Inundation Boundary (16JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253555/rsx11mloore7gtfa1kmq.tiff"
+  },
+  {
+    "Date": "17/06/12",
+    "Mean_Gauge": 2.26,
+    "Discharge": 65.35,
+    "InundationMapFilename": "Inundation Boundary (17JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253543/meispqjm7ccpa7mybbfc.tiff"
+  },
+  {
+    "Date": "18/06/12",
+    "Mean_Gauge": 2.27,
+    "Discharge": 80.458,
+    "InundationMapFilename": "Inundation Boundary (18JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253554/wkejtx3aiz1tqn9p1iom.tiff"
+  },
+  {
+    "Date": "19/06/12",
+    "Mean_Gauge": 2.28,
+    "Discharge": 88.932,
+    "InundationMapFilename": "Inundation Boundary (19JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253544/ggpc2rtghwqgset74x7i.tiff"
+  },
+  {
+    "Date": "20/06/12",
+    "Mean_Gauge": 2.33,
+    "Discharge": 93.813,
+    "InundationMapFilename": "Inundation Boundary (20JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253507/dfk7eesul58yezlrfsyv.tiff"
+  },
+  {
+    "Date": "21/06/12",
+    "Mean_Gauge": 2.38,
+    "Discharge": 90.291,
+    "InundationMapFilename": "Inundation Boundary (21JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253592/tszgaemti3f5mebbdwsd.tiff"
+  },
+  {
+    "Date": "22/06/12",
+    "Mean_Gauge": 2.34,
+    "Discharge": 86.691,
+    "InundationMapFilename": "Inundation Boundary (22JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253584/i3eq5nmxjn2qokinwu2d.tiff"
+  },
+  {
+    "Date": "23/06/12",
+    "Mean_Gauge": 2.32,
+    "Discharge": 87.205,
+    "InundationMapFilename": "Inundation Boundary (23JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253522/brxe5xnwblkpbxcv1jyf.tiff"
+  },
+  {
+    "Date": "24/06/12",
+    "Mean_Gauge": 2.31,
+    "Discharge": 110.074,
+    "InundationMapFilename": "Inundation Boundary (24JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253572/jjah7kyeplqabtd3q0r3.tiff"
+  },
+  {
+    "Date": "25/06/12",
+    "Mean_Gauge": 2.44,
+    "Discharge": 117.146,
+    "InundationMapFilename": "Inundation Boundary (25JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253532/o4uisntqadnfqmxwskrb.tiff"
+  },
+  {
+    "Date": "26/06/12",
+    "Mean_Gauge": 2.47,
+    "Discharge": 109.735,
+    "InundationMapFilename": "Inundation Boundary (26JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253539/hty563cpd2on6aui3epx.tiff"
+  },
+  {
+    "Date": "27/06/12",
+    "Mean_Gauge": 2.41,
+    "Discharge": 92.066,
+    "InundationMapFilename": "Inundation Boundary (27JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253559/se4tzm5wl1cluneroogo.tiff"
+  },
+  {
+    "Date": "28/06/12",
+    "Mean_Gauge": 2.37,
+    "Discharge": 89.258,
+    "InundationMapFilename": "Inundation Boundary (28JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253538/j8srcneukyb9zo0duewy.tiff"
+  },
+  {
+    "Date": "29/06/12",
+    "Mean_Gauge": 2.35,
+    "Discharge": 90.021,
+    "InundationMapFilename": "Inundation Boundary (29JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253560/vtijifzzaofh1jhvcrzj.tiff"
+  },
+  {
+    "Date": "30/06/12",
+    "Mean_Gauge": 2.35,
+    "Discharge": 87.284,
+    "InundationMapFilename": "Inundation Boundary (30JUN2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253527/hveia3q8rrktb9i5ttmc.tiff"
+  },
+  {
+    "Date": "01/07/12",
+    "Mean_Gauge": 2.33,
+    "Discharge": 77.471,
+    "InundationMapFilename": "Inundation Boundary (01JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253511/fxpxovk3qhvuhnxsuzf9.tiff"
+  },
+  {
+    "Date": "02/07/12",
+    "Mean_Gauge": 2.32,
+    "Discharge": 94.803,
+    "InundationMapFilename": "Inundation Boundary (02JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253515/h9bquojgxagyyfbfqqfc.tiff"
+  },
+  {
+    "Date": "03/07/12",
+    "Mean_Gauge": 2.39,
+    "Discharge": 96.996,
+    "InundationMapFilename": "Inundation Boundary (03JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253577/ryiivme8n75lddfegkgv.tiff"
+  },
+  {
+    "Date": "04/07/12",
+    "Mean_Gauge": 2.44,
+    "Discharge": 93.552,
+    "InundationMapFilename": "Inundation Boundary (04JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253525/qwjz0vajyhhfryukjzc4.tiff"
+  },
+  {
+    "Date": "05/07/12",
+    "Mean_Gauge": 2.38,
+    "Discharge": 87.103,
+    "InundationMapFilename": "Inundation Boundary (05JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253566/qcxg88gggxiitboijvlh.tiff"
+  },
+  {
+    "Date": "06/07/12",
+    "Mean_Gauge": 2.34,
+    "Discharge": 80.307,
+    "InundationMapFilename": "Inundation Boundary (06JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253562/sqiuhsorp3ucnockz1fd.tiff"
+  },
+  {
+    "Date": "07/07/12",
+    "Mean_Gauge": 2.3,
+    "Discharge": 76.419,
+    "InundationMapFilename": "Inundation Boundary (07JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253550/a4pdd9jqlfpa7wndzrkq.tiff"
+  },
+  {
+    "Date": "08/07/12",
+    "Mean_Gauge": 2.27,
+    "Discharge": 74.975,
+    "InundationMapFilename": "Inundation Boundary (08JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253562/mvywgzlgp4pnd1oxoniy.tiff"
+  },
+  {
+    "Date": "09/07/12",
+    "Mean_Gauge": 2.31,
+    "Discharge": 85.645,
+    "InundationMapFilename": "Inundation Boundary (09JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253550/ucisfezmqj10kdr6kjbb.tiff"
+  },
+  {
+    "Date": "10/07/12",
+    "Mean_Gauge": 2.33,
+    "Discharge": 437.356,
+    "InundationMapFilename": "Inundation Boundary (10JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253565/ad8qclpwi38zia6scalz.tiff"
+  },
+  {
+    "Date": "11/07/12",
+    "Mean_Gauge": 3.24,
+    "Discharge": 937.425,
+    "InundationMapFilename": "Inundation Boundary (11JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253525/k7eyidhj2kbxsoxb1rug.tiff"
+  },
+  {
+    "Date": "12/07/12",
+    "Mean_Gauge": 3.98,
+    "Discharge": 664.28,
+    "InundationMapFilename": "Inundation Boundary (12JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253549/dlnwblo1954mqe52r8zl.tiff"
+  },
+  {
+    "Date": "13/07/12",
+    "Mean_Gauge": 3.62,
+    "Discharge": 454.105,
+    "InundationMapFilename": "Inundation Boundary (13JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253563/r6x2k8bblsxu8j4zpyuq.tiff"
+  },
+  {
+    "Date": "14/07/12",
+    "Mean_Gauge": 3.235,
+    "Discharge": 341.793,
+    "InundationMapFilename": "Inundation Boundary (14JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253511/zi36x0rasyucih82kh2j.tiff"
+  },
+  {
+    "Date": "15/07/12",
+    "Mean_Gauge": 2.96,
+    "Discharge": 264.886,
+    "InundationMapFilename": "Inundation Boundary (15JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253604/wgnpefxojfy7xwwybjim.tiff"
+  },
+  {
+    "Date": "16/07/12",
+    "Mean_Gauge": 2.87,
+    "Discharge": 285.834,
+    "InundationMapFilename": "Inundation Boundary (16JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253579/rn33mj6cpth02f9ekn8d.tiff"
+  },
+  {
+    "Date": "17/07/12",
+    "Mean_Gauge": 2.88,
+    "Discharge": 361.115,
+    "InundationMapFilename": "Inundation Boundary (17JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253514/fc9qaieyhmohlbfznjb5.tiff"
+  },
+  {
+    "Date": "18/07/12",
+    "Mean_Gauge": 3.05,
+    "Discharge": 288.969,
+    "InundationMapFilename": "Inundation Boundary (18JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253578/eskwzuurlqhoyeeteqht.tiff"
+  },
+  {
+    "Date": "19/07/12",
+    "Mean_Gauge": 2.88,
+    "Discharge": 265.909,
+    "InundationMapFilename": "Inundation Boundary (19JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253514/y5aa5imt87rixm3csl9o.tiff"
+  },
+  {
+    "Date": "20/07/12",
+    "Mean_Gauge": 2.84,
+    "Discharge": 251.503,
+    "InundationMapFilename": "Inundation Boundary (20JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253526/n4xcrxgox8k8jkoldx8p.tiff"
+  },
+  {
+    "Date": "21/07/12",
+    "Mean_Gauge": 2.82,
+    "Discharge": 225.042,
+    "InundationMapFilename": "Inundation Boundary (21JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253564/elxbhqp27h0aviw5bj18.tiff"
+  },
+  {
+    "Date": "22/07/12",
+    "Mean_Gauge": 2.76,
+    "Discharge": 204.417,
+    "InundationMapFilename": "Inundation Boundary (22JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253561/vnxjbyeqbx2mojje6o0o.tiff"
+  },
+  {
+    "Date": "23/07/12",
+    "Mean_Gauge": 2.72,
+    "Discharge": 233.633,
+    "InundationMapFilename": "Inundation Boundary (23JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253551/ja7sorot6htii20aupvn.tiff"
+  },
+  {
+    "Date": "24/07/12",
+    "Mean_Gauge": 2.79,
+    "Discharge": 1157.076,
+    "InundationMapFilename": "Inundation Boundary (24JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253605/dv2xv5gl4fhs4dpail70.tiff"
+  },
+  {
+    "Date": "25/07/12",
+    "Mean_Gauge": 4.25,
+    "Discharge": 970.026,
+    "InundationMapFilename": "Inundation Boundary (25JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253510/qepkshnr5abshur9xxfm.tiff"
+  },
+  {
+    "Date": "26/07/12",
+    "Mean_Gauge": 4.06,
+    "Discharge": 834.876,
+    "InundationMapFilename": "Inundation Boundary (26JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253513/tvf1zdwewirrzcygxnfk.tiff"
+  },
+  {
+    "Date": "27/07/12",
+    "Mean_Gauge": 3.81,
+    "Discharge": 1214.573,
+    "InundationMapFilename": "Inundation Boundary (27JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253579/wayagr8mylwlcrmf5wdx.tiff"
+  },
+  {
+    "Date": "28/07/12",
+    "Mean_Gauge": 4.25,
+    "Discharge": 4715.483,
+    "InundationMapFilename": "Inundation Boundary (28JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253512/p3illl5o3ewn87obgwua.tiff"
+  },
+  {
+    "Date": "29/07/12",
+    "Mean_Gauge": 7.35,
+    "Discharge": 2715.194,
+    "InundationMapFilename": "Inundation Boundary (29JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253580/npnhx6cp2gye5ap5tvey.tiff"
+  },
+  {
+    "Date": "30/07/12",
+    "Mean_Gauge": 5.9,
+    "Discharge": 1412.722,
+    "InundationMapFilename": "Inundation Boundary (30JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253509/z9zaiccuhy6qjgndrwau.tiff"
+  },
+  {
+    "Date": "31/07/12",
+    "Mean_Gauge": 4.575,
+    "Discharge": 1881.308,
+    "InundationMapFilename": "Inundation Boundary (31JUL2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253606/nugw3sqbyagksaymaivj.tiff"
+  },
+  {
+    "Date": "01/08/12",
+    "Mean_Gauge": 5.14,
+    "Discharge": 1830,
+    "InundationMapFilename": "Inundation Boundary (01AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253585/pmreh3zu4s3h6pe7azlk.tiff"
+  },
+  {
+    "Date": "02/08/12",
+    "Mean_Gauge": 5,
+    "Discharge": 1490,
+    "InundationMapFilename": "Inundation Boundary (02AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253592/szadao2rasm9yrru3fp4.tiff"
+  },
+  {
+    "Date": "03/08/12",
+    "Mean_Gauge": 4.6,
+    "Discharge": 1174,
+    "InundationMapFilename": "Inundation Boundary (03AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253508/wes2lo1dljddlksrimo8.tiff"
+  },
+  {
+    "Date": "04/08/12",
+    "Mean_Gauge": 4.29,
+    "Discharge": 827,
+    "InundationMapFilename": "Inundation Boundary (04AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253558/jg5rbhqbj6pq1hjsa2oo.tiff"
+  },
+  {
+    "Date": "05/08/12",
+    "Mean_Gauge": 3.77,
+    "Discharge": 649.778,
+    "InundationMapFilename": "Inundation Boundary (05AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253540/eyl8fhctrmqqszvtyy5k.tiff"
+  },
+  {
+    "Date": "06/08/12",
+    "Mean_Gauge": 3.6,
+    "Discharge": 8941.191,
+    "InundationMapFilename": "Inundation Boundary (06AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253531/qcvfrnzrvfpryxvafphg.tiff"
+  },
+  {
+    "Date": "07/08/12",
+    "Mean_Gauge": 10.46,
+    "Discharge": 16972.875,
+    "InundationMapFilename": "Inundation Boundary (07AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253573/jq0ohycrlnuv3s5n4x3s.tiff"
+  },
+  {
+    "Date": "08/08/12",
+    "Mean_Gauge": 13.55,
+    "Discharge": 9525.863,
+    "InundationMapFilename": "Inundation Boundary (08AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253531/vb1g7wtifmolzs8b1so6.tiff"
+  },
+  {
+    "Date": "09/08/12",
+    "Mean_Gauge": 9.91,
+    "Discharge": 4247.221,
+    "InundationMapFilename": "Inundation Boundary (09AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253574/gdxga9l2g49w9ytfjb1a.tiff"
+  },
+  {
+    "Date": "10/08/12",
+    "Mean_Gauge": 6.925,
+    "Discharge": 1910.122,
+    "InundationMapFilename": "Inundation Boundary (10AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253543/xwyc7cruisw371ojdoab.tiff"
+  },
+  {
+    "Date": "11/08/12",
+    "Mean_Gauge": 5.15,
+    "Discharge": 4430,
+    "InundationMapFilename": "Inundation Boundary (11AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253558/gjka8vsghtldnp0vhdxk.tiff"
+  },
+  {
+    "Date": "12/08/12",
+    "Mean_Gauge": 7.27,
+    "Discharge": 9407.66,
+    "InundationMapFilename": "Inundation Boundary (12AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253575/fxxxio3kn4dy6jawsvqo.tiff"
+  },
+  {
+    "Date": "13/08/12",
+    "Mean_Gauge": 10.16,
+    "Discharge": 5105.612,
+    "InundationMapFilename": "Inundation Boundary (13AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253527/mdzezngzybcidmiioeb0.tiff"
+  },
+  {
+    "Date": "14/08/12",
+    "Mean_Gauge": 7.79,
+    "Discharge": 4470,
+    "InundationMapFilename": "Inundation Boundary (14AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253581/yxxbzbkwjajrzinsaadr.tiff"
+  },
+  {
+    "Date": "15/08/12",
+    "Mean_Gauge": 7.38,
+    "Discharge": 3255.347,
+    "InundationMapFilename": "Inundation Boundary (15AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253523/gwbkmfaxu8dlkv4br1qd.tiff"
+  },
+  {
+    "Date": "16/08/12",
+    "Mean_Gauge": 6.35,
+    "Discharge": 2301,
+    "InundationMapFilename": "Inundation Boundary (16AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253506/yopqslolathrnwyzjgtk.tiff"
+  },
+  {
+    "Date": "17/08/12",
+    "Mean_Gauge": 5.5,
+    "Discharge": 2048,
+    "InundationMapFilename": "Inundation Boundary (17AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253596/gsuhkhe0n5d1s4xdcfbm.tiff"
+  },
+  {
+    "Date": "18/08/12",
+    "Mean_Gauge": 5.23,
+    "Discharge": 2730,
+    "InundationMapFilename": "Inundation Boundary (18AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253505/a1cadng99wlkzlj0yhga.tiff"
+  },
+  {
+    "Date": "19/08/12",
+    "Mean_Gauge": 5.75,
+    "Discharge": 1669.055,
+    "InundationMapFilename": "Inundation Boundary (19AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253597/kshqxuwnykzmxbuxjepv.tiff"
+  },
+  {
+    "Date": "20/08/12",
+    "Mean_Gauge": 4.9,
+    "Discharge": 1504.191,
+    "InundationMapFilename": "Inundation Boundary (20AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253553/w4slkypeyovyyctkk20i.tiff"
+  },
+  {
+    "Date": "21/08/12",
+    "Mean_Gauge": 4.72,
+    "Discharge": 5837.324,
+    "InundationMapFilename": "Inundation Boundary (21AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253547/ciemdh116ukbp6lgrtuu.tiff"
+  },
+  {
+    "Date": "22/08/12",
+    "Mean_Gauge": 8.16,
+    "Discharge": 8149.416,
+    "InundationMapFilename": "Inundation Boundary (22AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253534/r6vywpwd7k54ntrgk5wu.tiff"
+  },
+  {
+    "Date": "23/08/12",
+    "Mean_Gauge": 9.5,
+    "Discharge": 3350,
+    "InundationMapFilename": "Inundation Boundary (23AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253570/qdiso3fi8ckhvstarjna.tiff"
+  },
+  {
+    "Date": "24/08/12",
+    "Mean_Gauge": 6.49,
+    "Discharge": 2900,
+    "InundationMapFilename": "Inundation Boundary (24AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253519/asrldrbfgmk3gpwn4hul.tiff"
+  },
+  {
+    "Date": "25/08/12",
+    "Mean_Gauge": 5.92,
+    "Discharge": 3750,
+    "InundationMapFilename": "Inundation Boundary (25AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253586/slsbsjchgcrecjv0f8vq.tiff"
+  },
+  {
+    "Date": "26/08/12",
+    "Mean_Gauge": 6.84,
+    "Discharge": 2228.187,
+    "InundationMapFilename": "Inundation Boundary (26AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253603/bdfcaq3tj2ofrjatohfu.tiff"
+  },
+  {
+    "Date": "27/08/12",
+    "Mean_Gauge": 5.46,
+    "Discharge": 1769,
+    "InundationMapFilename": "Inundation Boundary (27AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253498/lvbqtexst8ffb4bqrtwf.tiff"
+  },
+  {
+    "Date": "28/08/12",
+    "Mean_Gauge": 4.92,
+    "Discharge": 2602,
+    "InundationMapFilename": "Inundation Boundary (28AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253602/uozevv5oukb91gpxf3yr.tiff"
+  },
+  {
+    "Date": "29/08/12",
+    "Mean_Gauge": 5.9,
+    "Discharge": 1810,
+    "InundationMapFilename": "Inundation Boundary (29AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253500/ahrcy8rsoofj29fjiwl5.tiff"
+  },
+  {
+    "Date": "30/08/12",
+    "Mean_Gauge": 4.95,
+    "Discharge": 2360,
+    "InundationMapFilename": "Inundation Boundary (30AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253591/qdsqkqnz2k7gu1gocfdh.tiff"
+  },
+  {
+    "Date": "31/08/12",
+    "Mean_Gauge": 5.5,
+    "Discharge": 2300,
+    "InundationMapFilename": "Inundation Boundary (31AUG2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253517/iysgntzzusqtwsk0vawn.tiff"
+  },
+  {
+    "Date": "01/09/12",
+    "Mean_Gauge": 5.48,
+    "Discharge": 1930.8,
+    "InundationMapFilename": "Inundation Boundary (01SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253541/jdlohshqcqx8vsfuqrvn.tiff"
+  },
+  {
+    "Date": "02/09/12",
+    "Mean_Gauge": 5.08,
+    "Discharge": 1890.336,
+    "InundationMapFilename": "Inundation Boundary (02SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253528/yzo6n34c8lhosjan1tpf.tiff"
+  },
+  {
+    "Date": "03/09/12",
+    "Mean_Gauge": 5.13,
+    "Discharge": 1714,
+    "InundationMapFilename": "Inundation Boundary (03SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253575/h6wswqpyqjahbquul6r6.tiff"
+  },
+  {
+    "Date": "04/09/12",
+    "Mean_Gauge": 4.87,
+    "Discharge": 2120,
+    "InundationMapFilename": "Inundation Boundary (04SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253523/agj5m7fao4krjplwzgju.tiff"
+  },
+  {
+    "Date": "05/09/12",
+    "Mean_Gauge": 5.22,
+    "Discharge": 1468,
+    "InundationMapFilename": "Inundation Boundary (05SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253581/vt7yshxmbbu1mqpsmtek.tiff"
+  },
+  {
+    "Date": "06/09/12",
+    "Mean_Gauge": 4.57,
+    "Discharge": 9095.531,
+    "InundationMapFilename": "Inundation Boundary (06SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253593/iqkyr3506xhdg39waz3g.tiff"
+  },
+  {
+    "Date": "07/09/12",
+    "Mean_Gauge": 10,
+    "Discharge": 3267,
+    "InundationMapFilename": "Inundation Boundary (07SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253504/q3fwn7teltwfqnj1bzex.tiff"
+  },
+  {
+    "Date": "08/09/12",
+    "Mean_Gauge": 6.5,
+    "Discharge": 2239,
+    "InundationMapFilename": "Inundation Boundary (08SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253595/evhnlfojwy0qt4s63mev.tiff"
+  },
+  {
+    "Date": "09/09/12",
+    "Mean_Gauge": 5.35,
+    "Discharge": 2313.676,
+    "InundationMapFilename": "Inundation Boundary (09SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253502/v6t5jbbru3ba5lpyxdl0.tiff"
+  },
+  {
+    "Date": "10/09/12",
+    "Mean_Gauge": 5.54,
+    "Discharge": 2184,
+    "InundationMapFilename": "Inundation Boundary (10SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253583/o3ru2r8oppiqbwedhjjd.tiff"
+  },
+  {
+    "Date": "11/09/12",
+    "Mean_Gauge": 5.3,
+    "Discharge": 3545,
+    "InundationMapFilename": "Inundation Boundary (11SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253521/eqxyprwrovct9ywuguxt.tiff"
+  },
+  {
+    "Date": "12/09/12",
+    "Mean_Gauge": 6.6,
+    "Discharge": 2616,
+    "InundationMapFilename": "Inundation Boundary (12SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253509/nwhghbx3luxd10kctxgo.tiff"
+  },
+  {
+    "Date": "13/09/12",
+    "Mean_Gauge": 5.74,
+    "Discharge": 2375,
+    "InundationMapFilename": "Inundation Boundary (13SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253593/ka5txmril7a5zgofdifu.tiff"
+  },
+  {
+    "Date": "14/09/12",
+    "Mean_Gauge": 5.58,
+    "Discharge": 2194,
+    "InundationMapFilename": "Inundation Boundary (14SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253540/ivm0lxberhuqs4wpbgoc.tiff"
+  },
+  {
+    "Date": "15/09/12",
+    "Mean_Gauge": 5.35,
+    "Discharge": 1777,
+    "InundationMapFilename": "Inundation Boundary (15SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253560/ze7xbfaohwmuv2jfnpeq.tiff"
+  },
+  {
+    "Date": "16/09/12",
+    "Mean_Gauge": 5,
+    "Discharge": 1363.849,
+    "InundationMapFilename": "Inundation Boundary (16SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253571/ckfqjjymcokvfqd8keqh.tiff"
+  },
+  {
+    "Date": "17/09/12",
+    "Mean_Gauge": 4.56,
+    "Discharge": 1477,
+    "InundationMapFilename": "Inundation Boundary (17SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253530/dm6g2omqcs2wutg4ad9m.tiff"
+  },
+  {
+    "Date": "18/09/12",
+    "Mean_Gauge": 4.56,
+    "Discharge": 1394,
+    "InundationMapFilename": "Inundation Boundary (18SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253572/sjbdfmzykcse77rf21sf.tiff"
+  },
+  {
+    "Date": "19/09/12",
+    "Mean_Gauge": 4.5,
+    "Discharge": 1014,
+    "InundationMapFilename": "Inundation Boundary (19SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253529/iqmkoeyncxrhwuwvamq5.tiff"
+  },
+  {
+    "Date": "20/09/12",
+    "Mean_Gauge": 4.12,
+    "Discharge": 837.2,
+    "InundationMapFilename": "Inundation Boundary (20SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253516/nqh0ihfoqfo69eyzuwvh.tiff"
+  },
+  {
+    "Date": "21/09/12",
+    "Mean_Gauge": 3.84,
+    "Discharge": 967.4,
+    "InundationMapFilename": "Inundation Boundary (21SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253590/lzjhlcmwbwp2k4fgetqc.tiff"
+  },
+  {
+    "Date": "22/09/12",
+    "Mean_Gauge": 4,
+    "Discharge": 1267,
+    "InundationMapFilename": "Inundation Boundary (22SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253599/kavfdrbygbl6yvzyjuap.tiff"
+  },
+  {
+    "Date": "23/09/12",
+    "Mean_Gauge": 4.34,
+    "Discharge": 1196.768,
+    "InundationMapFilename": "Inundation Boundary (23SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253502/cws5lnwg9cidumsi5itn.tiff"
+  },
+  {
+    "Date": "24/09/12",
+    "Mean_Gauge": 4.36,
+    "Discharge": 858.9,
+    "InundationMapFilename": "Inundation Boundary (24SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253556/hvymi7guzlvmhqnsu1wf.tiff"
+  },
+  {
+    "Date": "25/09/12",
+    "Mean_Gauge": 3.88,
+    "Discharge": 762.6,
+    "InundationMapFilename": "Inundation Boundary (25SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253545/g0lgcloq2syau3sbhcog.tiff"
+  },
+  {
+    "Date": "26/09/12",
+    "Mean_Gauge": 3.72,
+    "Discharge": 703.8,
+    "InundationMapFilename": "Inundation Boundary (26SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253536/whhbbyac9umq58wgmzrp.tiff"
+  },
+  {
+    "Date": "27/09/12",
+    "Mean_Gauge": 3.64,
+    "Discharge": 693.8,
+    "InundationMapFilename": "Inundation Boundary (27SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253568/rushbj9wxazjsyq5qufa.tiff"
+  },
+  {
+    "Date": "28/09/12",
+    "Mean_Gauge": 3.64,
+    "Discharge": 643.1,
+    "InundationMapFilename": "Inundation Boundary (28SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253537/pbvl80uyndhmu7xhqepn.tiff"
+  },
+  {
+    "Date": "29/09/12",
+    "Mean_Gauge": 3.54,
+    "Discharge": 623.3,
+    "InundationMapFilename": "Inundation Boundary (29SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253567/gulqj5c0lbbtad4ngvlz.tiff"
+  },
+  {
+    "Date": "30/09/12",
+    "Mean_Gauge": 3.49,
+    "Discharge": 564.826,
+    "InundationMapFilename": "Inundation Boundary (30SEP2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253547/gcpaxhmqmso5mwpskvbx.tiff"
+  },
+  {
+    "Date": "01/10/12",
+    "Mean_Gauge": 3.46,
+    "Discharge": 553.115,
+    "InundationMapFilename": "Inundation Boundary (01OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253589/z0job9ccr7hqwxpmxjbr.tiff"
+  },
+  {
+    "Date": "02/10/12",
+    "Mean_Gauge": 3.44,
+    "Discharge": 452.453,
+    "InundationMapFilename": "Inundation Boundary (02OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253599/ufkjawdsvrcky0xm2fis.tiff"
+  },
+  {
+    "Date": "03/10/12",
+    "Mean_Gauge": 3.26,
+    "Discharge": 400.1,
+    "InundationMapFilename": "Inundation Boundary (03OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253501/sjuanpbns5tqxxgtb5ip.tiff"
+  },
+  {
+    "Date": "04/10/12",
+    "Mean_Gauge": 3.15,
+    "Discharge": 433.9,
+    "InundationMapFilename": "Inundation Boundary (04OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253556/ureorilwnxshjydpuddg.tiff"
+  },
+  {
+    "Date": "05/10/12",
+    "Mean_Gauge": 3.22,
+    "Discharge": 406,
+    "InundationMapFilename": "Inundation Boundary (05OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253545/gxcjxwpz2ajdvrhv3yyl.tiff"
+  },
+  {
+    "Date": "06/10/12",
+    "Mean_Gauge": 3.17,
+    "Discharge": 402.2,
+    "InundationMapFilename": "Inundation Boundary (06OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253535/st46fvjhd08v3o3qbew7.tiff"
+  },
+  {
+    "Date": "07/10/12",
+    "Mean_Gauge": 3.14,
+    "Discharge": 400.305,
+    "InundationMapFilename": "Inundation Boundary (07OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253568/qofi3wfpl1jg9gtwdya2.tiff"
+  },
+  {
+    "Date": "08/10/12",
+    "Mean_Gauge": 3.16,
+    "Discharge": 406.5,
+    "InundationMapFilename": "Inundation Boundary (08OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253536/fzll9oxckubfn21ir4zm.tiff"
+  },
+  {
+    "Date": "09/10/12",
+    "Mean_Gauge": 3.16,
+    "Discharge": 399.2,
+    "InundationMapFilename": "Inundation Boundary (09OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253566/zkcpwqltvupbfzyoxqwl.tiff"
+  },
+  {
+    "Date": "10/10/12",
+    "Mean_Gauge": 3.15,
+    "Discharge": 388.3,
+    "InundationMapFilename": "Inundation Boundary (10OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253546/ic25hgszllolencmlbax.tiff"
+  },
+  {
+    "Date": "11/10/12",
+    "Mean_Gauge": 3.11,
+    "Discharge": 321.7,
+    "InundationMapFilename": "Inundation Boundary (11OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253552/nfxdjqd9isnphxcypncs.tiff"
+  },
+  {
+    "Date": "12/10/12",
+    "Mean_Gauge": 3.02,
+    "Discharge": 277.2,
+    "InundationMapFilename": "Inundation Boundary (12OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253570/wcag22byhzcstv6kqqpk.tiff"
+  },
+  {
+    "Date": "13/10/12",
+    "Mean_Gauge": 2.91,
+    "Discharge": 259.3,
+    "InundationMapFilename": "Inundation Boundary (13OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253534/ep1v0rmnqefwkcgfe5oy.tiff"
+  },
+  {
+    "Date": "14/10/12",
+    "Mean_Gauge": 2.85,
+    "Discharge": 248.103,
+    "InundationMapFilename": "Inundation Boundary (14OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253588/khvfetvb19edab3a2qsi.tiff"
+  },
+  {
+    "Date": "15/10/12",
+    "Mean_Gauge": 2.83,
+    "Discharge": 234.1,
+    "InundationMapFilename": "Inundation Boundary (15OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253520/brxu1dejbnh9wilwsmrf.tiff"
+  },
+  {
+    "Date": "16/10/12",
+    "Mean_Gauge": 2.78,
+    "Discharge": 252.3,
+    "InundationMapFilename": "Inundation Boundary (16OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253497/l0glulzl35vzzrizewpn.tiff"
+  },
+  {
+    "Date": "17/10/12",
+    "Mean_Gauge": 2.82,
+    "Discharge": 253.2,
+    "InundationMapFilename": "Inundation Boundary (17OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253601/ebxepsjkrdtsazzdrp36.tiff"
+  },
+  {
+    "Date": "18/10/12",
+    "Mean_Gauge": 2.84,
+    "Discharge": 250.8,
+    "InundationMapFilename": "Inundation Boundary (18OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253498/w9luosjqayb2ym1vhour.tiff"
+  },
+  {
+    "Date": "19/10/12",
+    "Mean_Gauge": 2.83,
+    "Discharge": 243.2,
+    "InundationMapFilename": "Inundation Boundary (19OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253600/i9q1cznja3pylciyynpf.tiff"
+  },
+  {
+    "Date": "20/10/12",
+    "Mean_Gauge": 2.8,
+    "Discharge": 219.2,
+    "InundationMapFilename": "Inundation Boundary (20OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253557/kafrrqd2vjo2tgbszwbq.tiff"
+  },
+  {
+    "Date": "21/10/12",
+    "Mean_Gauge": 2.76,
+    "Discharge": 223.823,
+    "InundationMapFilename": "Inundation Boundary (21OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253542/ugw4xfhbfyf4rldajytp.tiff"
+  },
+  {
+    "Date": "22/10/12",
+    "Mean_Gauge": 2.77,
+    "Discharge": 249.3,
+    "InundationMapFilename": "Inundation Boundary (22OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253529/hzsjnh6gam8cmbt99xmi.tiff"
+  },
+  {
+    "Date": "23/10/12",
+    "Mean_Gauge": 2.82,
+    "Discharge": 267.2,
+    "InundationMapFilename": "Inundation Boundary (23OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253576/laeipfqalfvkaigdhhtc.tiff"
+  },
+  {
+    "Date": "24/10/12",
+    "Mean_Gauge": 2.86,
+    "Discharge": 286.527,
+    "InundationMapFilename": "Inundation Boundary (24OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253524/pwdx1iizikwbu0irpdij.tiff"
+  },
+  {
+    "Date": "25/10/12",
+    "Mean_Gauge": 2.97,
+    "Discharge": 312.2,
+    "InundationMapFilename": "Inundation Boundary (25OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253582/dp9ngk3kbkfutuxoidkn.tiff"
+  },
+  {
+    "Date": "26/10/12",
+    "Mean_Gauge": 2.97,
+    "Discharge": 312.1,
+    "InundationMapFilename": "Inundation Boundary (26OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253594/piybld0fj1ji6xiele8s.tiff"
+  },
+  {
+    "Date": "27/10/12",
+    "Mean_Gauge": 2.98,
+    "Discharge": 308.878,
+    "InundationMapFilename": "Inundation Boundary (27OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253505/kilkgonndoeow3ukrpab.tiff"
+  },
+  {
+    "Date": "28/10/12",
+    "Mean_Gauge": 2.97,
+    "Discharge": 256.442,
+    "InundationMapFilename": "Inundation Boundary (28OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253595/sp1q83aondfcbd0fwxdr.tiff"
+  },
+  {
+    "Date": "29/10/12",
+    "Mean_Gauge": 2.85,
+    "Discharge": 234.6,
+    "InundationMapFilename": "Inundation Boundary (29OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253503/yvhycqvtzj3dfw9vytz4.tiff"
+  },
+  {
+    "Date": "30/10/12",
+    "Mean_Gauge": 2.79,
+    "Discharge": 275.2,
+    "InundationMapFilename": "Inundation Boundary (30OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253584/g509q6fhjgjea9ktijz3.tiff"
+  },
+  {
+    "Date": "31/10/12",
+    "Mean_Gauge": 2.88,
+    "Discharge": 270.7,
+    "InundationMapFilename": "Inundation Boundary (31OCT2012 00 00 00 Value_0)",
+    "ImageURL": "https://res.cloudinary.com/dbttirsjj/image/upload/v1699253521/fkgjvoh3yw1cydsqwpq4.tiff"
+  }
+ ]
