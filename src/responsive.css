@@ -1,0 +1,66 @@
+@media screen and (max-width: 768px) {
+
+
+  .navbar_container {
+    width: 100vw;
+    height: 10vh;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+
+  }
+
+  .navbar_heading h1 {
+    font-size: 20px;
+    margin: 0px;
+  }
+
+  .navbar__toggle {
+    display: block;
+  }
+
+  .show {
+    left: 0% !important;
+  }
+
+  .left_panel {
+    width: 0%;
+    height: 0;
+    
+
+  }
+
+  .right_panel {
+    width: 100vw;
+    height: 100%;
+    overflow: scroll;
+  }
+
+
+  .side_navbar {
+    width: 100vw;
+    height: 90vh;
+    background-color: white;
+    top: 10vh;
+    left: -105%;
+    z-index: 100000000 !important;
+    transition: .5s;
+    overflow-y: auto;
+    position: absolute;
+
+  }
+
+
+
+
+
+
+
+
+}

@@ -28,14 +28,14 @@ const FloodForecastingPage = () => {
       setIsLoading(true)
       axios.post(`${BACKEND_URL}/send_measurement`, { measurement: gaugeMeasurement })
         .then((response) => {
-          console.log(response)
+          // console.log(response)
           setAlertMessage(response.data.message)
           setPredictedMapLink(response.data.file_link)
           setShowAlert(true)
           setIsLoading(false)
         })
         .catch((error) => {
-          setAlertMessage(error)
+          setAlertMessage("An error occurred")
           setShowAlert(true)
           setIsLoading(false)
         });

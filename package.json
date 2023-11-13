@@ -1,7 +1,7 @@
 {
   "name": "leaflet-raster-map",
   "version": "0.1.0",
-  "homepage": "https://aman1chaudhary.github.io/flood-forecasting-dashboard",
+  "homepage": "https://aman1chaudhary.github.io/flood-forecasting-dashboard-frontend",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -17,6 +17,7 @@
     "plotly.js": "^2.27.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
     "react-leaflet": "^4.2.1",
     "react-plotly.js": "^2.6.0",
     "react-router-dom": "^6.18.0",

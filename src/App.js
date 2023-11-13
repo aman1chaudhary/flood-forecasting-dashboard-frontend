@@ -1,5 +1,4 @@
 import React from 'react'
-import Navbar from './components/Navbar'
 import InundationMap from './pages/InundationMap'
 import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Footer from './components/Footer';
@@ -19,7 +18,6 @@ const App = () => {
         <AlertProvider>
           <AlertMessage />
           <LoaderProvider>
-            <Navbar />
             <Routes>
               <Route path="/" element={<InundationMap />} />
               <Route path="/about" element={<About />} />

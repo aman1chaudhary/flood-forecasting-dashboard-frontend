@@ -95,6 +95,11 @@ const InundationMap = () => {
                 <div className='right_panel'>
                     <div className='map_controler'>
                         <div>
+                        <label>Select District: </label>
+                            <select id="cars" name="cars">
+                                <option value="Hoshangabad">Hoshangabad</option>
+                            </select><br/>
+                            <label>Select Date: </label>
                             <input type="date" value={selectedDate} min="2012-06-01" max="2012-10-31" onChange={handleDateChange} />
                             {selectedData && (
                                 <div>
