@@ -5,11 +5,11 @@ const Footer = () => {
     return (
         <div className='footer_container'>
             <div className='footer_menu'>
-                <Link to="/about">
+                {/* <Link to="/about">
                     <div className='footer_item'>
                         About
                     </div>
-                </Link>
+                </Link> */}
 
                 <Link to="/acknowledgement">
                     <div className='footer_item'>

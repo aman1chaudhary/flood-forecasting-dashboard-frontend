@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, NavLink } from 'react-router-dom'
 import { FaBars, FaTimes } from 'react-icons/fa';
 
 const LeftPanel = () => {
@@ -17,9 +17,9 @@ const LeftPanel = () => {
         <>
             <div className='navbar_container'>
                 <div className='navbar_heading' onClick={handleLinkClick}>
-                <h1> Flood Alerts Dashboard </h1>
+                    <h1> Flood Forecasting Dashboard  </h1>
                 </div>
-                
+
 
                 <div className="navbar__toggle" onClick={handleToggle}>
                     {showMenu ? <FaTimes /> : <FaBars />}
@@ -28,22 +28,37 @@ const LeftPanel = () => {
 
 
             <div className={`side_navbar ${showMenu ? 'show' : ''}`}>
-                <Link to="/">
-                    <div className='side_navbar_item' onClick={handleLinkClick}>
-                        Inundation Maps
-                    </div>
-                </Link>
 
-                <Link to="/timeseries">
-                    <div className='side_navbar_item' onClick={handleLinkClick}>
-                        Time Series
-                    </div>
-                </Link>
-                <Link to="/flood-forecasting">
-                    <div className='side_navbar_item' onClick={handleLinkClick}>
+                <div onClick={handleLinkClick} className='side_navbar_item'>
+                    <NavLink to="/"
+                        className={({ isActive }) => (isActive ? 'active_navbar_link' : 'navbar_item_link')}>
+                        Inundation Maps
+                    </NavLink>
+                </div>
+
+                <div onClick={handleLinkClick} className='side_navbar_item'>
+                    <NavLink to="/timeseries"
+                        className={({ isActive }) => (isActive ? 'active_navbar_link' : 'navbar_item_link')}>
+                       Time Series
+                    </NavLink>
+                </div>
+
+                <div onClick={handleLinkClick} className='side_navbar_item'>
+                    <NavLink to="/flood-forecasting"
+                        className={({ isActive }) => (isActive ? 'active_navbar_link' : 'navbar_item_link')}>
                         Flood forecasting
-                    </div>
-                </Link>
+                    </NavLink>
+                </div>
+
+                <div onClick={handleLinkClick} className='side_navbar_item'>
+                    <NavLink to="/about"
+                        className={({ isActive }) => (isActive ? 'active_navbar_link' : 'navbar_item_link')}>
+                        About
+                    </NavLink>
+                </div>
+
+
+                
             </div>
         </>
     )

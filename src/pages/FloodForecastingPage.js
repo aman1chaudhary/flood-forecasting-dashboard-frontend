@@ -17,6 +17,7 @@ const FloodForecastingPage = () => {
   const { setIsLoading } = useLoaderContext();
   const [gaugeMeasurement, setGaugeMeasurement] = useState("");
   const [predictedMapLink, setPredictedMapLink] = useState("");
+  const [displayMaxValue, setDisplayMaxValue] = useState();
 
 
   const handleInputChange = (e) => {
@@ -26,6 +27,19 @@ const FloodForecastingPage = () => {
   const sendDataToBackend = () => {
     if (gaugeMeasurement !== "") {
       setIsLoading(true)
+      let dynamicDisplayMax;
+
+      if (gaugeMeasurement >= 19) {
+        dynamicDisplayMax = 1.6;
+      } else if (gaugeMeasurement >= 11 && gaugeMeasurement < 19) {
+        dynamicDisplayMax = 1.3;
+      }else if (gaugeMeasurement >= 10 && gaugeMeasurement < 11) {
+        dynamicDisplayMax = 1.001;
+      } else {
+        dynamicDisplayMax = 18;
+      }
+      setDisplayMaxValue(dynamicDisplayMax)
+
       axios.post(`${BACKEND_URL}/send_measurement`, { measurement: gaugeMeasurement })
         .then((response) => {
           // console.log(response)
@@ -33,6 +47,15 @@ const FloodForecastingPage = () => {
           setPredictedMapLink(response.data.file_link)
           setShowAlert(true)
           setIsLoading(false)
+
+          // Set the options with dynamicDisplayMax
+          const options = {
+            renderer: plottyRenderer,
+            bounds: [[22.5444989120000017, 77.2885380120000036], [22.7877842760000000, 77.7441607800000014]],
+            opacity: 0.8,
+            displayMax: dynamicDisplayMax,
+          };
+
         })
         .catch((error) => {
           setAlertMessage("An error occurred")
@@ -71,18 +94,21 @@ const FloodForecastingPage = () => {
 
   ]
 
+  // Red:1.6
+  // Yellow:1.001
+  // Orange:1.3
   const plottyRenderer = L.LeafletGeotiff.plotty({
     // Optional. Minimum values to plot.
     displayMin: 0.1,
     // Optional. Maximum values to plot.
-    displayMax: 15,
+    displayMax: displayMaxValue,
     // Optional flag for plotty to enable/disable displayMin/Max.
     applyDisplayRange: true,
     // Optional. If true, values outside `displayMin` to `displayMax` will be rendered as if they were valid values.
     clampLow: true,
     clampHigh: true,
     // colorScale: "hot",
-    colorScale: "viridis",
+    colorScale: "plasma",
   });
 
   const options = {
@@ -104,6 +130,24 @@ const FloodForecastingPage = () => {
           <div className='map_controler'>
             <input type='number' placeholder='Enter Gauge Measurement Value' value={gaugeMeasurement} onChange={handleInputChange} />
             <button onClick={sendDataToBackend}>Run Model</button>
+
+          </div>
+
+          <div className='legend_container'>
+            {/* <p>Legend</p> */}
+            <div className="legend-item">
+              <i style={{ backgroundColor: 'red' }}></i>
+              <p> Extreme Flood</p>
+            </div>
+            <div className="legend-item">
+              <i style={{ backgroundColor: 'orange' }}></i>
+              <p> Severe Flood</p>
+            </div>
+            <div className="legend-item">
+              <i style={{ backgroundColor: 'yellow' }}></i>
+              <p> Above Normal Flood</p>
+            </div>
+
 
           </div>
           <MapContainer
@@ -136,6 +180,11 @@ const FloodForecastingPage = () => {
               <RasterMap url={predictedMapLink} options={options} />
 
             )}
+
+            {/* <RasterMap url="https://res.cloudinary.com/dbttirsjj/image/upload/v1699253606/nugw3sqbyagksaymaivj.tiff" options={options} /> */}
+
+
+
 
 
 
